@@ -1,0 +1,28 @@
+# link_list.c
+# .gitignore
+# link_list.h
+# link_list.o
+# goods.c
+# goods.h
+# main.c
+a.out
+# md5.c
+# md5.h
+# people.c
+# people.h
+# Readme
+# goods_mgr.c
+# goods_mgr.h
+# peoples_mgr.c
+# peoples_mgr.h
+# menu.c
+# menu.h
+# privacy.c
+# privacy.h
+# login.c
+# login.h
+# goods_info.dat
+# user_info.dat
+# link_list_p.c
+# link_list_p.h
+*.o
